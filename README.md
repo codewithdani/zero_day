@@ -1,9 +1,9 @@
-#Vagrant - or - how to code in your local computer
+# Vagrant - or - how to code in your local computer
 
-##Resources
+## Resources
 
 Read or watch
 
-*Virtual machine
+* Virtual machine
 
-*man uname
+* man uname
